@@ -32,6 +32,7 @@ The following **additional** features are implemented:
     <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/758d16fd1617498b936a9cda85626345-with-play.gif">
   </a>
 
+![image](https://user-images.githubusercontent.com/50006912/231270024-f7e4780b-5b86-4399-b73e-7c0a34bd24a7.png)
 
 ## Notes
 
