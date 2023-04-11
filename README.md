@@ -2,7 +2,7 @@
 
 Submitted by: **Dosbol Aliev**
 
-This web app: **My first Project use Supabase Only Database**
+This web app: **My first Project using Supabase Database**
 
 Time spent: **12** hours spent in total
 
@@ -27,6 +27,10 @@ The following **additional** features are implemented:
 * [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
+
+<a href="https://www.loom.com/share/4c307687558d47089754656f2de8c1ab">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4c307687558d47089754656f2de8c1ab-with-play.gif">
+  </a>
 
 
 ## Notes
